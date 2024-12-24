@@ -480,6 +480,14 @@
       <HintPath>Library\PackageCache\com.unity.collab-proxy@2.4.3\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="starksdk_tools">
+      <HintPath>Assets\Plugins\ByteGame\com.bytedance.starksdk.unitytools\Editor\starksdk_tools.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="bgdt">
+      <HintPath>Assets\Plugins\ByteGame\com.bytedance.bgdt\Editor\bgdt.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@2.4.3\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
@@ -500,24 +508,16 @@
       <HintPath>Assets\Plugins\AnimatextFree\Editor\Core\AnimatextFree.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="ttsdk">
+      <HintPath>Assets\Plugins\ByteGame\com.bytedance.starksdk\ttsdk.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Google.JarResolver_v1.2.156">
       <HintPath>Assets\ExternalDependencyManager\Editor\Google.JarResolver_v1.2.156.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Google.IOSResolver_v1.2.156">
       <HintPath>Assets\ExternalDependencyManager\Editor\Google.IOSResolver_v1.2.156.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="starksdk_tools">
-      <HintPath>Assets\Plugins\ByteGame\com.bytedance.starksdk.unitytools\Editor\starksdk_tools.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="bgdt">
-      <HintPath>Assets\Plugins\ByteGame\com.bytedance.bgdt\Editor\bgdt.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="ttsdk">
-      <HintPath>Assets\Plugins\ByteGame\com.bytedance.starksdk\ttsdk.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="nunit.framework">
@@ -1088,24 +1088,24 @@
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.Advertisements">
       <HintPath>Library\ScriptAssemblies\UnityEngine.Advertisements.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Mathematics">
-      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.2D.IK.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Mathematics">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Cinemachine">
@@ -1174,6 +1174,10 @@
       <Project>{D6BC9F1F-B8C2-21B0-A907-741DC3A3DC2F}</Project>
       <Name>MoreMountains.NiceVibrations.Haptics</Name>
     </ProjectReference>
+    <ProjectReference Include="TTLitJson.csproj">
+      <Project>{E141AA2B-6D27-D2ED-B066-7724FB231C8A}</Project>
+      <Name>TTLitJson</Name>
+    </ProjectReference>
     <ProjectReference Include="MoreMountains.Feedbacks.Editor.csproj">
       <Project>{1EE70830-41A8-C3E0-65D4-FCC28B53CA40}</Project>
       <Name>MoreMountains.Feedbacks.Editor</Name>
@@ -1182,13 +1186,21 @@
       <Project>{D4D84F53-42FC-3DA2-30B0-49F2DEE7417D}</Project>
       <Name>MoreMountains.NiceVibrations.Demos</Name>
     </ProjectReference>
-    <ProjectReference Include="MoreMountains.Tools.TextMeshPro.csproj">
-      <Project>{85BFD45E-615F-9C74-A22B-246E9110CB49}</Project>
-      <Name>MoreMountains.Tools.TextMeshPro</Name>
+    <ProjectReference Include="TTWebGL.csproj">
+      <Project>{72627B68-A454-4C13-97A5-0C33F0998289}</Project>
+      <Name>TTWebGL</Name>
     </ProjectReference>
     <ProjectReference Include="MoreMountains.Feedbacks.NiceVibrations.csproj">
       <Project>{9F8251CC-4353-DE3D-B2A9-0664247750A1}</Project>
       <Name>MoreMountains.Feedbacks.NiceVibrations</Name>
+    </ProjectReference>
+    <ProjectReference Include="MoreMountains.Tools.TextMeshPro.csproj">
+      <Project>{85BFD45E-615F-9C74-A22B-246E9110CB49}</Project>
+      <Name>MoreMountains.Tools.TextMeshPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="com.bytedance.ttsdk-editor.csproj">
+      <Project>{1DBEC9F3-4C83-9016-CBED-D52799D6156C}</Project>
+      <Name>com.bytedance.ttsdk-editor</Name>
     </ProjectReference>
     <ProjectReference Include="MoreMountains.Tools.Feedbacks.csproj">
       <Project>{95042BF0-E489-44D1-9B9F-4696FC69C3CA}</Project>
@@ -1225,18 +1237,6 @@
     <ProjectReference Include="MoreMountains.Tools.csproj">
       <Project>{86C94376-F18D-6A6B-05CF-760BFFEA772F}</Project>
       <Name>MoreMountains.Tools</Name>
-    </ProjectReference>
-    <ProjectReference Include="TTLitJson.csproj">
-      <Project>{E141AA2B-6D27-D2ED-B066-7724FB231C8A}</Project>
-      <Name>TTLitJson</Name>
-    </ProjectReference>
-    <ProjectReference Include="TTWebGL.csproj">
-      <Project>{72627B68-A454-4C13-97A5-0C33F0998289}</Project>
-      <Name>TTWebGL</Name>
-    </ProjectReference>
-    <ProjectReference Include="com.bytedance.ttsdk-editor.csproj">
-      <Project>{1DBEC9F3-4C83-9016-CBED-D52799D6156C}</Project>
-      <Name>com.bytedance.ttsdk-editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

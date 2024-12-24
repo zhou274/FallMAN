@@ -3,22 +3,30 @@
   "WorkspaceRootPath": "D:\\Unity\\FallMan\\Fall Guy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|d:\\unity\\fallman\\fall guy\\assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|d:\\unity\\fallman\\fall guy\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|D:\\Unity\\FallMan\\Fall Guy\\assets\\scripts\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|D:\\Unity\\FallMan\\Fall Guy\\assets\\scripts\\gamewinscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamewinscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|D:\\Unity\\FallMan\\Fall Guy\\assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|d:\\unity\\fallman\\fall guy\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|D:\\Unity\\FallMan\\Fall Guy\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|D:\\Unity\\FallMan\\Fall Guy\\assets\\scripts\\gamewinscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamewinscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|D:\\Unity\\FallMan\\Fall Guy\\assets\\scripts\\coinupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,14 +85,6 @@
       "RelativeMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|D:\\Unity\\FallMan\\Fall Guy\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|D:\\Unity\\FallMan\\Fall Guy\\assets\\scripts\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|D:\\Unity\\FallMan\\Fall Guy\\assets\\scripts\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8B245DC-FCE4-C9EE-F59B-882E7EEB551B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -112,95 +112,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CebianlanManager.cs",
-              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\CebianlanManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CebianlanManager.cs",
-              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\CebianlanManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CebianlanManager.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T04:04:58.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CebianlanManager.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs [\u53EA\u8BFB]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T03:53:42.053Z",
-              "EditorCaption": " [\u53EA\u8BFB]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ADManager.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs [\u53EA\u8BFB]",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T03:46:28.458Z",
-              "EditorCaption": " [\u53EA\u8BFB]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuManager.cs",
-              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\MenuManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
-              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\MenuManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T10:38:56.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameWinScene.cs",
-              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\GameWinScene.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameWinScene.cs",
-              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\GameWinScene.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameWinScene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:20:00.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SmoothFollow.cs",
-              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\SmoothFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SmoothFollow.cs",
-              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\SmoothFollow.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SmoothFollow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T11:03:08.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SimpleCollectibleScript.cs",
-              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\SimpleCollectibleScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleCollectibleScript.cs",
-              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\SimpleCollectibleScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SimpleCollectibleScript.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAmwFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T11:03:03.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "PlayerControl.cs",
               "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\PlayerControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControl.cs",
@@ -212,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "DummyKill.cs",
               "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\DummyKill.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DummyKill.cs",
@@ -224,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CharacterScroller.cs",
               "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\CharacterScroller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterScroller.cs",
@@ -236,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Splash.cs",
               "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\Splash.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Splash.cs",
@@ -248,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SoundManager.cs",
               "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\SoundManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
@@ -261,6 +177,114 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:38:56.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ADManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:46:28.458Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CebianlanManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:42.053Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoinManager.cs",
+              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\CoinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinManager.cs",
+              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\CoinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:49:31.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:59:16.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SimpleCollectibleScript.cs",
+              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\SimpleCollectibleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleCollectibleScript.cs",
+              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\SimpleCollectibleScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimpleCollectibleScript.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:03:03.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SmoothFollow.cs",
+              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\SmoothFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SmoothFollow.cs",
+              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\SmoothFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SmoothFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:03:08.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameWinScene.cs",
+              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\GameWinScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameWinScene.cs",
+              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\GameWinScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameWinScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:20:00.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CebianlanManager.cs",
+              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\CebianlanManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CebianlanManager.cs",
+              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\CebianlanManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CebianlanManager.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T04:04:58.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CoinUpdate.cs",
               "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\CoinUpdate.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CoinUpdate.cs",
@@ -272,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "TransitionEvents.cs",
               "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\TransitionEvents.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TransitionEvents.cs",
@@ -284,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ObstacleControl.cs",
               "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\ObstacleControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleControl.cs",
@@ -296,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "LookAt.cs",
               "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\LookAt.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LookAt.cs",
@@ -308,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "KillZone.cs",
               "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\KillZone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KillZone.cs",
@@ -320,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "GroundCollison.cs",
               "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\GroundCollison.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GroundCollison.cs",
@@ -332,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "GroundChecker.cs",
               "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\GroundChecker.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GroundChecker.cs",
@@ -341,18 +365,6 @@
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T10:59:24.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAiwGoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T10:59:16.155Z"
             },
             {
               "$type": "Document",
@@ -401,18 +413,6 @@
               "ViewState": "AgIAABMAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T10:54:53.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CoinManager.cs",
-              "DocumentMoniker": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\CoinManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinManager.cs",
-              "ToolTip": "D:\\Unity\\FallMan\\Fall Guy\\Assets\\Scripts\\CoinManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CoinManager.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T10:49:31.156Z"
             },
             {
               "$type": "Document",
